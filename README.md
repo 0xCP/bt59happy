@@ -6,7 +6,7 @@
 **Centos**安装脚本：  
 `yum install -y wget && wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/0xCP/bt59happy/master/install-5.9-c.sh && sh install.sh`  
 >大陆境内：  
-`yum install -y wget && wget --no-check-certificate -O install.sh https://cdn.jsdelivr.net/gh/0xCP/bt59happy@master/install-5.9-c.sh && sh install.sh`  
+`yum install -y wget && wget --no-check-certificate -O install.sh https://cdn.jsdelivr.net/gh/0xCP/bt59happy@master/install-5.9-ch.sh && sh install.sh`  
 
 
 **Ubuntu**安装脚本：  
